@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kshitij Bhandari](https://github.com/kbhandari98/))
+- Place: Mumbai, Maharashtra
+- Bio: Beginner
+- Github:(https://github.com/kbhandari98/)
